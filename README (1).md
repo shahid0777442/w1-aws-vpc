@@ -61,7 +61,7 @@ Optional: reproduce the network with Terraform ([terraform/](terraform/)).
 Account IDs are masked in all screenshots.
 
 ### VPC
-![VPC](screenshots/01-vpc.png)
+<img width="1201" height="560" alt="01-vpc" src="https://github.com/user-attachments/assets/8aaaa952-86da-4d2d-8f8f-94203a229afa" />
 
 ### Subnets
 | Public A | Public B |
