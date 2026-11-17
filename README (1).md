@@ -75,29 +75,30 @@ Account IDs are masked in all screenshots.
  |
 
 ### Internet Gateway
-![IGW](screenshots/06-internet-gateway.png)
+<img width="1603" height="385" alt="06-internet-gateway" src="https://github.com/user-attachments/assets/72dd5447-16c8-4ddf-bd5e-bebcf57a082c" />
+
 
 ### Route tables
 Public route table (creation and explicit subnet associations):
-
-![](screenshots/07-public-rt-create.png)
-![](screenshots/08-public-rt-associations.png)
+<img width="1530" height="587" alt="07-public-rt-create" src="https://github.com/user-attachments/assets/4c682bad-93d4-48fa-af69-2d98ac8eb1ae" />
+<img width="1568" height="346" alt="08-public-rt-associations" src="https://github.com/user-attachments/assets/e3d966b9-96c2-4f54-9d95-c40a957a0556" />
 
 Private route table (creation and routes: `10.20.0.0/16 -> local` only):
-
-![](screenshots/09-private-rt-create.png)
-![](screenshots/10-private-rt-routes.png)
+<img width="1522" height="591" alt="09-private-rt-create" src="https://github.com/user-attachments/assets/40037071-085e-4e36-9b40-d9ab0e521c53" />
+<img width="1592" height="346" alt="10-private-rt-routes" src="https://github.com/user-attachments/assets/223debac-f94a-4459-98aa-fb40b8bd65ef" />
 
 ### Security groups
-![SGs](screenshots/11-security-groups.png)
+<img width="1605" height="296" alt="11-security-groups" src="https://github.com/user-attachments/assets/67fcf221-f11f-445e-a269-5f4551256710" />
 
 ### IAM role for Session Manager
-![](screenshots/12-iam-role-policy.png)
-![](screenshots/13-iam-role-review.png)
+<img width="1342" height="431" alt="13-iam-role-review" src="https://github.com/user-attachments/assets/0be4f743-9e90-4f72-9ffd-5f9c2e05fc66" />
+<img width="1511" height="441" alt="12-iam-role-policy" src="https://github.com/user-attachments/assets/987572eb-4a70-44fa-a9be-fca89fc4bc50" />
+
 
 ### EC2 instance and web test
-![](screenshots/14-ec2-public-instance.png)
-![](screenshots/15-test-web-page.png)
+<img width="1535" height="716" alt="14-ec2-public-instance" src="https://github.com/user-attachments/assets/84d03986-e7aa-4dde-8d93-63cb828c5698" />
+<img width="1115" height="515" alt="15-test-web-page" src="https://github.com/user-attachments/assets/8536ae38-36f1-49d6-a91b-5656a5b06d45" />
+
 
 ## 7. Test results
 Summary below; details in [docs/connectivity-tests.md](docs/connectivity-tests.md).
