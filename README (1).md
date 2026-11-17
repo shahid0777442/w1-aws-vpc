@@ -66,11 +66,13 @@ Account IDs are masked in all screenshots.
 ### Subnets
 | Public A | Public B |
 |---|---|
-| ![](screenshots/02-subnet-public-a.png) | ![](screenshots/03-subnet-public-b.png) |
+| <img width="1143" height="486" alt="02-subnet-public-a" src="https://github.com/user-attachments/assets/e43df5d9-009c-4448-998c-5a7eebe21a8b" />  | <img width="1131" height="481" alt="03-subnet-public-b" src="https://github.com/user-attachments/assets/8775f5be-1d75-49c6-8dae-42904b683ab1" />
+ |
 
 | Private A | Private B |
 |---|---|
-| ![](screenshots/04-subnet-private-a.png) | ![](screenshots/05-subnet-private-b.png) |
+| <img width="1092" height="476" alt="04-subnet-private-a" src="https://github.com/user-attachments/assets/1e359d9b-2075-4044-a6ca-17394b44223d" />  | <img width="1067" height="477" alt="05-subnet-private-b" src="https://github.com/user-attachments/assets/f8f28723-e8b6-4eaa-8cda-0f1161f7d334" />
+ |
 
 ### Internet Gateway
 ![IGW](screenshots/06-internet-gateway.png)
